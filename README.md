@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="ElC0nr4d0" width="100%">
-</p>
-
 # ElC0nr4d0
 
 Softwareentwickler · Web- & Softwareentwicklung · 15+ Jahre · Open-Source-Fan · TechGuy
